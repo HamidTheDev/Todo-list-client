@@ -1,0 +1,41 @@
+.style-to-do{
+
+    color:#ffffff;
+    font-size: 40px;
+    font-weight: 700;
+
+
+}
+.to-do{
+    background:linear-gradient(to top, #02394b, rgba(0, 0, 0, 0.247)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn_Nbj0QLS4zRWS76FMqjdeEaqOEHkq-IAaw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.imgBanner{
+    width: 80%;
+}
+.add-task{
+    text-decoration: none;
+    font-weight: 600;
+    height: 50px;
+    color: white;
+}
+.btn-add-task{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.main-btn{
+    margin-top: 30px;
+   padding: 8px 30px;
+    background-color: #0c92bf;
+    border: none;
+    border-radius: 10px;
+
+}
